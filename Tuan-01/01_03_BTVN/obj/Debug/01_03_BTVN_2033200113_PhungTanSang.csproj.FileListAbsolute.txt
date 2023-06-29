@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2013\Projects\01_01_BTVN_2033200113_PhungTanSang\01_03_BTVN_2033200113_PhungTanSang\bin\Debug\01_03_BTVN_2033200113_PhungTanSang.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\01_01_BTVN_2033200113_PhungTanSang\01_03_BTVN_2033200113_PhungTanSang\bin\Debug\01_03_BTVN_2033200113_PhungTanSang.exe
+c:\users\administrator\documents\visual studio 2013\Projects\01_01_BTVN_2033200113_PhungTanSang\01_03_BTVN_2033200113_PhungTanSang\bin\Debug\01_03_BTVN_2033200113_PhungTanSang.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\01_01_BTVN_2033200113_PhungTanSang\01_03_BTVN_2033200113_PhungTanSang\obj\Debug\01_03_BTVN_2033200113_PhungTanSang.exe
+c:\users\administrator\documents\visual studio 2013\Projects\01_01_BTVN_2033200113_PhungTanSang\01_03_BTVN_2033200113_PhungTanSang\obj\Debug\01_03_BTVN_2033200113_PhungTanSang.pdb

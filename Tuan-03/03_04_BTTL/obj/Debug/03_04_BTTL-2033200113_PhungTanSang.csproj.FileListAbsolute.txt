@@ -1,0 +1,12 @@
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\buoi_03\03_BTVN_2033200113_PhungTanSang\03_04_BTTL-2033200113_PhungTanSang\bin\Debug\03_04_BTTL-2033200113_PhungTanSang.exe.config
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\buoi_03\03_BTVN_2033200113_PhungTanSang\03_04_BTTL-2033200113_PhungTanSang\bin\Debug\03_04_BTTL-2033200113_PhungTanSang.exe
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\buoi_03\03_BTVN_2033200113_PhungTanSang\03_04_BTTL-2033200113_PhungTanSang\bin\Debug\03_04_BTTL-2033200113_PhungTanSang.pdb
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\buoi_03\03_BTVN_2033200113_PhungTanSang\03_04_BTTL-2033200113_PhungTanSang\obj\Debug\03_04_BTTL-2033200113_PhungTanSang.csprojResolveAssemblyReference.cache
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\buoi_03\03_BTVN_2033200113_PhungTanSang\03_04_BTTL-2033200113_PhungTanSang\obj\Debug\_03_04_BTTL_2033200113_PhungTanSang.DaySoTinhTong.resources
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\buoi_03\03_BTVN_2033200113_PhungTanSang\03_04_BTTL-2033200113_PhungTanSang\obj\Debug\_03_04_BTTL_2033200113_PhungTanSang.Properties.Resources.resources
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\buoi_03\03_BTVN_2033200113_PhungTanSang\03_04_BTTL-2033200113_PhungTanSang\obj\Debug\03_04_BTTL-2033200113_PhungTanSang.csproj.GenerateResource.Cache
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\buoi_03\03_BTVN_2033200113_PhungTanSang\03_04_BTTL-2033200113_PhungTanSang\obj\Debug\03_04_BTTL-2033200113_PhungTanSang.exe
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\buoi_03\03_BTVN_2033200113_PhungTanSang\03_04_BTTL-2033200113_PhungTanSang\obj\Debug\03_04_BTTL-2033200113_PhungTanSang.pdb
+C:\Users\anhtuan\Desktop\03_BTVN_2033200113_PhungTanSang\03_04_BTTL-2033200113_PhungTanSang\bin\Debug\03_04_BTTL-2033200113_PhungTanSang.exe.config
+C:\Users\anhtuan\Desktop\03_BTVN_2033200113_PhungTanSang\03_04_BTTL-2033200113_PhungTanSang\obj\Debug\03_04_BTTL-2033200113_PhungTanSang.exe
+C:\Users\anhtuan\Desktop\03_BTVN_2033200113_PhungTanSang\03_04_BTTL-2033200113_PhungTanSang\obj\Debug\03_04_BTTL-2033200113_PhungTanSang.pdb

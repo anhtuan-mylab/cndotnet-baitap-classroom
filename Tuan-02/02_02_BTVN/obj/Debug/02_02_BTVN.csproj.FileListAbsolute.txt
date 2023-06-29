@@ -1,0 +1,2 @@
+C:\Users\anhtuan\Desktop\02_BTVN_CNN_2033200113_PhungTanSang\02_02_BTVN_2033200113_PhungTanSang\bin\Debug\02_02_BTVN.exe.config
+C:\Users\anhtuan\Desktop\02_BTVN_CNN_2033200113_PhungTanSang\02_02_BTVN\bin\Debug\02_02_BTVN.exe.config

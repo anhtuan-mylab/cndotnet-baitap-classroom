@@ -1,0 +1,6 @@
+C:\Users\anhtuan\Desktop\02_BTVN_CNN_2033200113_PhungTanSang\02_01_BTVN\bin\Debug\02_01_BTVN_2033200113_PhungTanSang.exe.config
+C:\Users\anhtuan\Desktop\02_BTVN_CNN_2033200113_PhungTanSang\02_01_BTVN\obj\Debug\02_01_BTVN_2033200113_PhungTanSang.exe
+C:\Users\anhtuan\Desktop\02_BTVN_CNN_2033200113_PhungTanSang\02_01_BTVN\obj\Debug\02_01_BTVN_2033200113_PhungTanSang.pdb
+C:\Users\anhtuan\Desktop\02_BTVN_CNN_2033200113_PhungTanSang\02_01_BTVN\bin\Debug\02_01_BTVN_2033200113_PhungTanSang.exe
+C:\Users\anhtuan\Desktop\02_BTVN_CNN_2033200113_PhungTanSang\02_01_BTVN\bin\Debug\02_01_BTVN_2033200113_PhungTanSang.pdb
+C:\Users\anhtuan\Desktop\02_BTVN_CNN_2033200113_PhungTanSang\02_01_BTVN\obj\Debug\02_01_BTVN.csprojResolveAssemblyReference.cache
